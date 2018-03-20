@@ -2,6 +2,8 @@
 
 > A boilerplate of Cordova and Vue.js to start developing mobile applications 
 
+* This is an initial project. I hope for the participation of all to improve this structure and we serve for the whole community Vue.js and Cordova.
+
 ## Build Setup
 
 ``` bash
