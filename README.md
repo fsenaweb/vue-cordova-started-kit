@@ -1,6 +1,6 @@
 # Vue + Cordova Starter Kit
 
-> A skeleton of Cordova and Vue.js 
+> A boilerplate of Cordova and Vue.js to start developing mobile applications 
 
 ## Build Setup
 
